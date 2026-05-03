@@ -2,7 +2,7 @@
   "name": "karpuy96",
   "description": "AI Agent karpuy96 - experimental Web3 agent for automation and interaction",
   "type": "agent",
-  "image": "https://api.dicebear.com/7.x/bottts/png?seed=karpuy96",
+  "image": "https://picsum.photos/200",
   "services": [
     {
       "name": "chat",
